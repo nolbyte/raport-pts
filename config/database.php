@@ -14,9 +14,9 @@
 
 	//online 
 	$host="localhost"; // Host name 
-	$username="mmc-mhd"; // Mysql username 
-	$password="Karehol*7$$"; // Mysql password 
-	$db_name="binadharma_raport"; // Database name
+	$username="root"; // Mysql username 
+	$password="root"; // Mysql password 
+	$db_name="raport"; // Database name
 	// Connect to server and select databse.
 	try
 	{
